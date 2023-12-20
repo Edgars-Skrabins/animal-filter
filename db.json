@@ -1,0 +1,59 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Lion",
+      "pictureUrl": "lion_picture_url.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Elephant",
+      "pictureUrl": "elephant_picture_url.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tiger",
+      "pictureUrl": "tiger_picture_url.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Giraffe",
+      "pictureUrl": "giraffe_picture_url.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kangaroo",
+      "pictureUrl": "kangaroo_picture_url.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dolphin",
+      "pictureUrl": "dolphin_picture_url.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Penguin",
+      "pictureUrl": "penguin_picture_url.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Panda",
+      "pictureUrl": "panda_picture_url.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Gorilla",
+      "pictureUrl": "gorilla_picture_url.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Zebra",
+      "pictureUrl": "zebra_picture_url.jpg"
+    },
+    {
+      "id": 0.5437147677757364,
+      "name": "Sloth",
+      "pictureUrl": "sloth_picture_url.jpg"
+    }
+  ]
+}
