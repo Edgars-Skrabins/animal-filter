@@ -3,57 +3,67 @@
     {
       "id": 1,
       "name": "Lion",
-      "pictureUrl": "lion_picture_url.jpg"
+      "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/1200px-Lion_waiting_in_Namibia.jpg"
     },
     {
       "id": 2,
       "name": "Elephant",
-      "pictureUrl": "elephant_picture_url.jpg"
+      "pictureUrl": "https://cdn.britannica.com/02/152302-050-1A984FCB/African-savanna-elephant.jpg"
     },
     {
       "id": 3,
       "name": "Tiger",
-      "pictureUrl": "tiger_picture_url.jpg"
+      "pictureUrl": "https://cdn.britannica.com/40/75640-050-F894DD85/tiger-Siberian.jpg"
     },
     {
       "id": 4,
       "name": "Giraffe",
-      "pictureUrl": "giraffe_picture_url.jpg"
+      "pictureUrl": "https://www.thesafaricollection.com/wp-content/uploads/2022/07/The-Safari-Collection-Hey-You-Giraffe-Manor-1.jpg"
     },
     {
       "id": 5,
       "name": "Kangaroo",
-      "pictureUrl": "kangaroo_picture_url.jpg"
+      "pictureUrl": "https://media.npr.org/assets/img/2018/12/10/roger-the-kangaroo-sanctuary-alice-springs-2_custom-e0dfceba6d2665cc8cc0daa5a57eae2bcda46ad8-s1100-c50.jpg"
     },
     {
       "id": 6,
       "name": "Dolphin",
-      "pictureUrl": "dolphin_picture_url.jpg"
+      "pictureUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFRUYGBgYGBgaGBocGhgaGhgYGBgaGhgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHzQkJCQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAECBQAGB//EADgQAAIBAgUDAQcDAgUFAQAAAAECAAMRBBIhMUEFUWFxBhMiMoGRoRTB0bHhFUJSYvAzNHKCoiP/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQIDBAUG/8QAJREAAwEAAgICAQQDAAAAAAAAAAECESExAxIEQVEiMmFxEzOR/9oADAMBAAIRAxEAPwCtYIToJAw66ECVxVYWva0z6eNN9DPU1HxMxVTwblKkD9IFjZt4PDYksCLa8QtPD3FzvHm9GLXq37BTVst5NFgwuSBAVaRI30lBRAibEpnBpsOG+UXtzHcPSyrA4ba20JWew32kPdLnEtZGIcHSEppZIjRGZr3mh4jYLltmetySJZ6cJiqRXUQaVRsY0Q00AIIMuqiFKX1lgo4lEtlFQdoRFsZYCdEGMtUA4l8Km8AzS2BBz7GTT4LhbSZerobQaC/MjGXD9pTPEnwFLKY0iiSFEDROkMrAbmQ2azKwF7u8q62hncHYyj0ido1X5IqPwJukoUmkKWm0hsKe0PZDXjozMkzcbTbNcT0Iw0o9AdpLouFUPTzGRuxnT1Pul7fidF7G/uxLE4cMotpF6PTVGvMcSqM22kYqoDqus6fVdnF71KxMEtECxEhrb7SddpYiw1ENM9AvVBFhewnKLyASdJdU1k9sroZw720lcYNN51NNzLMtxE1yOW8wSoIb6aTXw+0TRLamM0qmsVdGnj/drLPck3mdiKPM1ari2vEDRIqXHAiT400qdefYtSpkrpCCkYytILptLO6jmJ0wnwL7A+4FrGENMAWAkmp6SjVx5MhtnRHx2+loCpT57R/DEEaRGviBsQdZSjiyo0H5g3qNY+H5Jrc4GMdhSRfkRSkQd940eqaXyj7N+O8Aa6tqFN/AP9CIKvoPL8G/3JFlS22sj3ZhsM4IlmMl09Mf8WLkEia7RgJpKBz2l0YydLUIumnEMpFrymaVaGleqQN3HaBZvEs/pKEX3j0yaZ1jOlbDzOj1B6szqNO8YU22iK19OYWjXnXqRwVNBveldd5BqFzrIqHSWpAAEyWwSIaNUKYC3PMDQpFj4EcYi120toIbhUTvLIVbmUSlrvEsTjvdIXba9h3PpM/D+0wzaqLfmZ1WPs7PB8OvKvaVweiFAbbxj3dhoIHAdRSoNDHWHaQ6NX8dxw0ZOIVyd7CFw6ZebRqrSuLk2A57TEqVyWshLcXhovF8errhGzWxSAfGb/1mdW6iD8oCj8/eVp4En5zrGf0aAbC/7SdPV8XxJnmuWINirawT40gX3PAjFbCrc9uPQxCvhTf6SXR2zCQRcV9zue8LSxQG8zWUqNZ1Ii/xQTH6o9Nhayv8J3t8J/aDrpl1G4mCuMKOpBut9PHialXHBtRGHqgq1M2q6ON7c+R/E1cHUR7B7BjsRs3p2PieZq4tLgqbH+hjvvM6Zl0O/ow/mJ8nP5vCqR6Y4Fe84YAd5mdJ6sXGV/nXfyO81Bipm9TOH1npor+jMocEw5EK2IPAgfevuYtYnM/gh8E3aLVMA/aO/rDwJBxrW2jTYnEMzf0bf6TJmj+vPadDaJ/xweZTDgwyU1EuLAWvIUrOzUeSorCV14lavYCGokHmUC6nudo57BzwMUQFQHvEaz52sDLtTc6A+PSEwWCIbXWKqSfZooqkklwZ/XOkvVpqqEZlN7HQG411ni69FkYqwswNiOxn1oU7TyXtngBdKg5+FvXgzlp69PY+HbjIfR57B4oobgz1nS+uA6OduZ5PDUM02MHQUkA6KPz6xpnfUzSxmrisS9c2X4UH58wlF1QZV+vmJVMTbRdBBCtHo4iZWI1RioKtjQCdZj1sXbaI18UYtNMNqpjbk2i9bGzC/UnvKmvm2i0pIZxePJ5iBx5HMBUuTaBKAbmLR4P0sdfTg8Rini8o3048eJmUh2BjAU9h940ww0DXB51juEx+VTr2P1mDh0ZmyoCx8XsPU7CbWD6I2pd7X/yrqfqTDRVPA7gsa2cOi6A6+RyJ7ajTDAMNmAI9DrPGJQyKw8aT1ns0pfDIWFj8QB7qGNpFM8y4r2ejoFpDC8s9Fl8iDZ4EPjsr7sSwTvKZvMKjiHJKw7IO06TnnQK4MRnUcRPEVc2gFobFrfaLUwb6jaark8+uOxrD08o23l3XW3J2k4Zix8CWZSzi2wmrr1RnM+/KG6S5Vta5hqaW4lRoIVHvMP5OyZRJXvMX2sVfcW5Lrb1vNljPOe0+KFwvCa/+3H2i7NYX60edX4bLyYwlSwsIiXub8mXWrYXj09VTnYzUrWECMTuYjVrXMi8NKSLvUJgKrSzvaAY3iZSAl7sBKDFDOUFr8S/u9dICt0275r211/taTo0GsSbE2jFHC+PrDU6Wt9/3nOr9wBGBVkA2ida522jORu/4k+6Pf8RMaB4XGlBYTUo9YYazPWmfH2khNdf7Rax8D1TqtZ9URm9ASP4nufYzqLvSZKq5WQgKMyn4Tx8JOxvPANdtydPsJ6D2Gwr/AKh3F8gQq3YsSpA/Bi/sx88pzq+j6A9cTNqi5PAjxIEGy3gnh59L2FFUA940pE4U5IUwdCU4RmEiEyntOi9h4YrGCr7WG5jCoAZLIL35m6ZwON4B4TDZd43VwwOoNoFEdmNto8qEKJFV7PWbxCmcSF0XvDqoi1acle2+w5jBYnhfqGKFNCx+nkzwOPrl2LMb3M2+oYs1XJ2Rb28+Z57Fm948xHd4fHn6mLVH1gqlXSVbWCqGI7C9PWELWkIthKMYAVdryimcxg1aIY1RGsIBrKptDKsBlqKXjDJOwq7xkiLRoSFCX91GMsrDQYFaEMmBLG2kkX4jeDyB0R3Cl/6dvF9ryKb+jOqxDGA9mWcZmqKq3toLlu9rkfeewwmEWkgRBZQPqe5J5MRfCuoGUAgbenEF+vdD8QNpKpHLVVXZrgHtLXmZS6uLa7xtMep4h7L8kerGkaFWJiuu0J7w8axi6GdJ0XzntOiHplKkMlOT7vWNIBNnRyTByDKsYRrgQBFxLYdDr2kabpZ0VrUBMHr2Ky//AJqdT83gdptdUxQpoWP0Hc8Tw9SoWYsx1Yy4WlT4060nFVMqgDmYuJffzNHG1Letpj1Wls7ZXAItLUkubyqJcxq1hJK0q0Eywl5ZUuYMEJ1qZiob4p6JcKLazIx9IA2G5kspBaBzaxkG0RwDAXvtaN0fi+K9l48xt4gbwfow9jFKdW2w+pjC4puJm6J9i+QniWw+Cd2yopY+OPU8Tc6P0J6wD1WKpwOW/gT1mGwqU1yooUeP3PMn3ZDs8lQ9lKuUlnUNwup+5E8x1jpVVGOff11n1nPFep9OSstmAvweYvZrlEqn9njvZL2n2w+JNjsjnnsrfzPZ1MGrbifP+sezFRdVUuvgXI+09v7MYp3oL71SrL8OtwWC7NrBtV/ZLldroIelp2gavTwNhNnPKsAZPqicPKhHVjptDLjLbjWbz4YGLvglPEnGug/syv8AEfBnTR/w8dp0P1BiKsNJyCSgl0XWdGnMp5LIJdFNz2lQ1oh1zqHu6ZA+ZtB47mLNZokYPtD1DO5APwroPJ5MxEqbntB1Kl7ypFlm6WdHTM4hbE1LmI1DD1mlKVK5vEaotSW0KUMYSnpLBIAKhI7hqVtTOSlDxDIr1Mqk9hPNOutzr3PczV6nW2Qep/aZbnXSSxoGgOw5/pyZpK2wA2AAk9I6cX1AJLGygC5I5M910b2SUWarp/tH7mZVX0RVI8lgsBUqGyISf+b9p7TovssqWerZm4UfKPXuZ6KhhUQZUUKBwNIRm4kvX2ZOtKDxOAaEEm47wJwA1OSacKGEhz2hgAkBXeELXlFud5Ja2ghoIuEk3lFJ5Mq0WjCZpVvEGDJF49EUu06FtOhoYLZZR3yy151SncStMcO94MpYnbeeD63jjUcm+mw9Jve0OMCJkU6nf0njK1a5msLFpr45+2WQjaUxFTtBF7axZ6k0NkibXMfw9PSDwlK4uY6qfSIoggSUWTlAlWe0TYwjGDZ4NngsarKq3BGe9jtoNyJLoNEnOa7RjoXR3xNUIug3dv8ASnJ9eBBFCbIguSQAByTsJ9R9luifpqQB1d7Fz54UeBJqsCqxDnSuk06ChUXi2Y7n6x8rLCc7CZGQJrStgJOZZxdYElUqDaQ4lHa8giAiwEspkAS1oAVqJ2gEWx1MbUSlaneIbRyDzLOIsiWk1apEATCrKsxgkr3jAa4i6Dsrm8zpOk6GhgtmlajgAknaQp0mL7S4wJSIB+JtP5lzy8Ms08t1nF53Y+fxMoteVqOTK30nSdErFhFV4KkLsB5lyITCWDEn6QLRrUxYWhGeKLVB5jOGwr1NUFwP8x0H3k1SS5AGzx3A9Hq1flWw/wBR0H07xnAYVUIZgHYd9vtN1esbXWwmHv7dMiqa6RTAezyUyGNnbztf0nlOuPUxOKdKaMzIciqBooG5J2AuSZ7il1FWjNOuh1FrntvEtT0zVY9Zj+zHssKBFWowepxb5U727nzPVe9mf708Nf1kLVbkQf8AIOmxtq15VQTuYmcVbcSV6gneLUA4UEsEEXFUHaHRxACpQwyJID32nXgMKqCTlgg8uDAoox7SCJLCVD3jEBdDe4lgLjWGcQO3pJYYUVADe0MpEXesNpZGgLRnKJEDnnRDEWqHieI9qa16mXt/WezoV1Inzvq1XNWc/wC4/g2m0L9RELWIueJVtZxMsBNzcgLIZIS82egdDasc73VPy3gSKrAbxCPTOkvWOgIQbnv6d57TCKqKECkADb+Zp0qSIoVQABsIR1BGomLbrswqtMWtRubgRbEoVmxUo66QNVb6EXmblfQJsx1q2EfoYgKt+8WxuFI1AlGoWUEG5PEzaaNE0zWTHWte0fpYhGGhtPKKCfEdwzkEWMF5GuxuEejBB5Bi9bCIeLeky1xX0YR7DYq6gsRNFU0Q5pF6dJkOhuO0eRxzFw1+ZXKe8efyLTRRANRJDGZYxpU2MNTxwMtLjgXsjRtJW4ii4qETEXg0ylSDul5XJaQcRKe9ixj1DKGUdRBrUnNUvFg9A1gJNOn5laklalo8J3kY93OgffidFhWowUK0wSe0+e4l7sx7sfyZ6j/ESVIbWeQxT6/eX4VgSuSM2sveKo3M0+l4I1nCjQbsfHabt4tL67HuidM94wZx8A/+vHpPc0qlgFUWA0A7TJwtApYC1hoBNWi/iYOt5Oem2xmmkaWmCLRdHH1hw8lsEizqAIoUudozLLaQXhm4nCmxtMwIL6jUT0txF62GQ8RkuTJaiGGwEUSnlfQzXbCAH4TFsVhr7/cSXK+hqmjLr6Gxhb3+U6D8Q5QDc3iQYI5B2PaZVOG01ofDdQYG026OIva66TAw7gOCCNZvUjpKim+xWl9DJpK0A/TtbqbSwMYSoZonhGJiRpMN4Sm0bNUHeZ+KrhT8S6dx+8r3S7J9PwMhpwaAQG11N4VX7yt/AsGFlWaVV5O8CiwN5Rqcsi2hTBBgtlnQ+k6Giw+fVqI4M831KkUex3nqOtdRWgmwz20/2/3nhVxTO5LG5M1iHPZpD0aoIWYBdSTYepnvsB0cUkFtWPzHzPB0cZ7twynUbGb+G9rH5IPraOvF7rh4TdtPhaepFBlI+KP5bC41nnsF19HFnsGPPE1cLXI8r3BvOdxcd/8AfolOX12aNJzyLRhGv6xWnVU8xlAN5I0FCy9pQNODQHhbLBtrtLiXEAwXVDfxJccWhzIYQHhmVsCDe0wcT098xPbaevItAYijmGkTQJ4ebamtuzTUwlQ5QDF8ZhuOxjGHbKNREpS6G232MZoRamkVVtb94VjKEHV5csCLETOaoR5haVW+h3ksaLrhbaocvjiFKtzv3kDxD09N9oS8E+QSVO+8Mg7S1SkCNIsWKTTRZg0TpF1qNexHpDJUDCWAETbGB94e06M5Z0NDD4V1bGFySTeZ9FrG4nVWgVa06m+TSZ4xDeJfWUWrAM95YLFo/Xjkeo4ojmbfTussltdJ5lBDU6lu0r2M3CZ9GTHhxdT/AGM0sNWcLdXuebz5307qJQ3vpyJ7VMpVXU6MAR9Zx+Zej1dMcreH2jSfqFQblZrYSoSLmecpUyTrqJ6DBuAPSRNbwFTg+olrQaveXUSiSROIlWMjNDQJtOzCAeoZTPDADVKYaBelpLo0uxuIYBm1lNtpVXNhpGC8BiNvMXI8KvT7TlFpnVsS6ajUcx3CVc6g7RP8gjQovDM4MSc2l6cPoY0Kvac9QHfmCLATka+kXsGFWpWNwYxTeUS/Mhl5mieiwYz+Z0T94ZMYj4O0FzOnTpZsiybmEXidOiGx7pPzj1E9FhvmnTpzebsqejH6j/1D/wA4ntMB/wBtR/8AGdOh5v8AWiF+80V+WN9NnTplBNGth9oxOnTQhAXg23kToCOMDV3nTpSBh6e0uJ06JjQpyYKrOnSV0NmXitmjHTNvpOnSR/Q88usidGItzI5MidIK+hteJVpE6WiGUnTp0sR//9k="
     },
     {
       "id": 7,
       "name": "Penguin",
-      "pictureUrl": "penguin_picture_url.jpg"
+      "pictureUrl": "https://optimise2.assets-servd.host/maniacal-finch/production/animals/southern-rock-hopper-penguin-01-01.jpg?w=1200&auto=compress%2Cformat&fit=crop&dm=1660831481&s=9a929ad4ca101687860476bb97d562c1"
     },
     {
       "id": 8,
       "name": "Panda",
-      "pictureUrl": "panda_picture_url.jpg"
+      "pictureUrl": "https://images.seattletimes.com/wp-content/uploads/2021/02/panda-050c061c-60de-11eb-9061-07abcc1f9229.jpg?d=1020x680"
     },
     {
       "id": 9,
       "name": "Gorilla",
-      "pictureUrl": "gorilla_picture_url.jpg"
+      "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Male_gorilla_in_SF_zoo.jpg"
     },
     {
       "id": 10,
       "name": "Zebra",
-      "pictureUrl": "zebra_picture_url.jpg"
+      "pictureUrl": "https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTgyMDk1NjgzNzMyMzgzMDQ4/5-unexpected-things-you-might-not-know-about-zebras.jpg"
     },
     {
-      "id": 0.5437147677757364,
+      "id": 11,
       "name": "Sloth",
-      "pictureUrl": "sloth_picture_url.jpg"
+      "pictureUrl": "https://slothconservation.b-cdn.net/wp-content/uploads/2021/12/mango-3-min.jpg"
+    },
+    {
+      "id": 0.25234892180077595,
+      "name": "awdawda",
+      "pictureUrl": "wdawda"
+    },
+    {
+      "id": 0.1640783085588895,
+      "name": "awdawda",
+      "pictureUrl": "wdawda"
     }
   ]
 }
