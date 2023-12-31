@@ -11,9 +11,7 @@ import {Sort} from "../sort/Sort.tsx";
 const animalsUrl = '/animals'
 export const AnimalCards = () => {
     const dispatch = useDispatch()
-    const loadedAnimals: AnimalCardProps[] = useSelector((state: RootState) => state.loadedAnimals.value)
-    // const {data, error, isLoading} = useGetLoadedAnimalCards();
-
+    const loadedAnimals: AnimalCardProps[] = useSelector((state: RootState) => state.loadedAnimals.value);
 
     const [isAnimalsLoaded, setIsAnimalsLoaded] = useState(false);
 
@@ -31,11 +29,8 @@ export const AnimalCards = () => {
 
     const getCardsSortedAlphabetical = async (sortForwardDirection: boolean) => {
         let animalUrlToSort;
-
         sortForwardDirection ? animalUrlToSort = `${animalsUrl}?_sort=name&_order=asc` : animalUrlToSort = `${animalsUrl}?_sort=name&_order=desc`;
-
         console.log(animalUrlToSort);
-
         try {
             const response = await api.get<AnimalCardProps[]>(animalUrlToSort);
             dispatch(setLoadedAnimals(response.data));
